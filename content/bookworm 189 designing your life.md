@@ -1,5 +1,6 @@
 ---
 title: "Bookworm 189: Designing Your Life by Bill Burnett & Dave Evans"
+date: 2024-02-04
 tags:
   - podcasts
 ---
