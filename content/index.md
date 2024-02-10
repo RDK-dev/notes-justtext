@@ -3,11 +3,15 @@ title: Home
 date: 2024-02-04
 ---
 
-Hi, I'm RDK. In this digital garden, you will find a variety of topics I'm interested in. I recently created this garden. Currently you can check out my notes on [#podcasts](/tags/podcasts/). I will upload more notes shortly.
+Hi, I'm RDK. In this digital garden, you will find a variety of topics I'm interested in. I recently created this garden. I will upload more notes shortly.
+
+Currently you can check out my notes on:
+
+* [#books](/tags/books/)
+* [#podcasts](/tags/podcasts/)
 
 Following topics is coming:
 
-* Books
 * Coding
 * Habits
 * Journaling
