@@ -7,8 +7,8 @@ Hi, I'm RDK. In this digital garden, you will find a variety of topics I'm inter
 
 Currently you can check out my notes on:
 
-* [#books](/tags/books/)
-* [#podcasts](/tags/podcasts/)
+* #books
+* #podcasts
 
 Following topics is coming:
 
